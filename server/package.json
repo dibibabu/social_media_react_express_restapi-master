@@ -1,6 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
+  "proxy": "https://meeter.gq",
   "description": "",
   "main": "index.js",
   "type": "module",
